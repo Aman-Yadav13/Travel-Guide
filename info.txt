@@ -1,0 +1,6 @@
+You need to enable places , map etc api , which needs billing , thus app might not show some functionality
+Open weather map and places api from rapid api is used
+Note:The weather image display used in the application is from a diffrent api from rapid api whereas the actual data we are fettching is from a diffrent api
+Note: snazzymaps.com for map styling
+Setting up of environmental variables is so that no one else can find our api keys
+Every environmental variables is setup starting with REACT_APP_
